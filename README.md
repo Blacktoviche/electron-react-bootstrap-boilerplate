@@ -26,7 +26,7 @@ npm start
 npm run watch
 # Run start in console 2
 npm start
-## License
+```
 
 ## License
 - [MIT](LICENSE)
