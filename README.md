@@ -10,7 +10,7 @@ To clone and run this repository you'll need [Git](https://git-scm.com) and [Nod
 
 ```bash
 # Clone this repository
-git clone https://github.com/electron/electron-react-bootstrap-boilerplate
+git clone https://github.com/Blacktoviche/electron-react-bootstrap-boilerplate
 # Go into the repository
 cd electron-react-bootstrap-boilerplate
 # Install dependencies
